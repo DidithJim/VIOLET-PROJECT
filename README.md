@@ -15,6 +15,5 @@ Visita el sitio web aquí: [Violet Project](https://violet-project.vercel.app/)
 ## Contacto
 
 - Correo Electrónico: jimenezriosjudith07@gmail.com
-- Twitter: [@tucuenta](https://twitter.com/tucuenta)
 
 ¡Gracias por visitar Violet Project!
